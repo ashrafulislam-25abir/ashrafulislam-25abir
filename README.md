@@ -1,10 +1,10 @@
 <div align="center">
 
-# MD. Ashraful Islam
+# MD. ASHRAFUL ISLAM
 
 ### Aspiring Software Engineer & AI/ML Engineer
 
-## 👑 **CEO @ [StratifyX Global](https://stratifyxglobal.com)**
+## **CEO @ [StratifyX Global](https://stratifyxglobal.com)**
 
 CSE undergraduate at Daffodil International University, building practical software and exploring AI, Machine Learning and research.
 
