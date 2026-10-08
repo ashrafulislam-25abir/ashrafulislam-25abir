@@ -21,7 +21,7 @@ CSE undergraduate at Daffodil International University, building practical softw
 - 🎓 B.Sc. in **Computer Science and Engineering** at **Daffodil International University (DIU)**, Dhaka.
 - 🏢 **Chief Executive Officer** at **StratifyX Global**, leading a multidisciplinary team that delivers real-world projects, including a government school website.
 - 🤝 **Executive Member** at the **DIU Computer & Programming Club**.
-- 🌱 Currently focused on **Frontend Development, Artificial Intelligence and Machine Learning**.
+- 🌱 Currently focused on **Full Stack Development, Artificial Intelligence and Machine Learning**.
 - 💡 I enjoy exploring emerging technologies, joining hackathons and turning ideas into reliable software.
 - 💬 Ask me about **Java, MySQL, Spring Boot, Object-Oriented Programming** or **tech leadership**.
 
