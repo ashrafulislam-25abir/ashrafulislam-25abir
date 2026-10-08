@@ -1,12 +1,15 @@
 <div align="center">
 
-# Md. Ashraful Islam
+# MD. Ashraful Islam
 
-### Aspiring Software Engineer & AI/ML Engineer  |  CEO @ StratifyX Global
+### Aspiring Software Engineer & AI/ML Engineer
+
+## 👑 **CEO @ [StratifyX Global](https://stratifyxglobal.com)**
 
 CSE undergraduate at Daffodil International University, building practical software and exploring AI, Machine Learning and research.
 
 <p>
+  <a href="https://stratifyxglobal.com"><img src="https://img.shields.io/badge/StratifyX_Global-CEO-1F3864?style=for-the-badge&logo=googlechrome&logoColor=white" alt="StratifyX Global" /></a>
   <a href="https://www.linkedin.com/in/md-ashraful-islam25/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ashrafulislam.personal.info@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/ashrafulislam-25abir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -19,9 +22,9 @@ CSE undergraduate at Daffodil International University, building practical softw
 ## About Me
 
 - 🎓 B.Sc. in **Computer Science and Engineering** at **Daffodil International University (DIU)**, Dhaka.
-- 🏢 **Chief Executive Officer** at **StratifyX Global**, leading a multidisciplinary team that delivers real-world projects, including a government school website.
+- 👑 **Chief Executive Officer (CEO)** at **[StratifyX Global](https://stratifyxglobal.com)**, leading a multidisciplinary team that delivers real-world projects, including the [Badrakanda High School website](https://badrakandahighschool.edu.bd/), a government school project.
 - 🤝 **Executive Member** at the **DIU Computer & Programming Club**.
-- 🌱 Currently focused on **Full Stack Development, Artificial Intelligence and Machine Learning**.
+- 🌱 Currently focused on **Frontend Development, Artificial Intelligence and Machine Learning**.
 - 💡 I enjoy exploring emerging technologies, joining hackathons and turning ideas into reliable software.
 - 💬 Ask me about **Java, MySQL, Spring Boot, Object-Oriented Programming** or **tech leadership**.
 
@@ -50,19 +53,25 @@ CSE undergraduate at Daffodil International University, building practical softw
 
 ## Featured Projects
 
+*Click a project name to open it.*
+
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **ReliefX** ([Code](https://lnkd.in/grYRZvxf) · [Live](https://lnkd.in/gYc_V5Zr)) | Database-driven flood relief management platform that coordinates multiple NGOs. Blocks duplicate relief within 7 days using stored procedures and triggers, protects beneficiary identity with salted cryptographic hashing, and includes an audit trail and area-wise fairness view. | `MySQL` `Stored Procedures` `Triggers` |
+| [**ReliefX**](https://github.com/ashrafulislam-25abir/ReliefX-Smart-Flood-Relief-Management-System) · [Live](https://lnkd.in/gYc_V5Zr) | Smart flood relief management platform coordinating multiple NGOs. Blocks duplicate relief within 7 days using stored procedures and triggers, protects beneficiary identity with salted cryptographic hashing, and includes an audit trail and area-wise fairness view. | `MySQL` `Stored Procedures` `Triggers` |
+| [**Badrakanda High School Website**](https://badrakandahighschool.edu.bd/) | Official website of a government school, delivered by [StratifyX Global](https://stratifyxglobal.com). I worked as Assistant Developer on defect analysis and quality assurance. | `Web` `QA` |
+| [**OmniCalc**](https://github.com/ashrafulislam-25abir/OmniCalc_A-MultiModel-DSL-Calculator) | Multi-model Domain-Specific Language (DSL) calculator. I built the Bison grammar, expression evaluation and operator precedence, and resolved shift/reduce conflicts. | `C/C++` `Bison` |
+| [**5G Network Architecture for Smart City Applications**](https://github.com/ashrafulislam-25abir/5G-Network-Architecture-Design-for-Smart-City-Applications) | Network architecture design for smart city applications using 5G. | `5G` `Network Design` |
+| [**Digital Lock with Binary Code**](https://github.com/ashrafulislam-25abir/Digital_Lock_with_Binary_Code) | Digital lock project based on binary code. | `Digital Logic` |
+| [**Fire Alarm Circuit (CSE216)**](https://github.com/ashrafulislam-25abir/CSE216-Lab-Project) | Electronic Devices and Circuits lab project. | `Electronics` |
+| [**Compiler Design**](https://github.com/ashrafulislam-25abir/Compiler-Design) | Compiler Design course work and lab programs. | `C/C++` `Bison` |
 | **UpLift** | Ride-sharing desktop application with MVC architecture, REST APIs, and role-based authentication and authorization. | `Java` `JavaFX` `Spring Boot` `MySQL` |
-| **OmniCalc** ([Code](https://lnkd.in/g3PqCeEK)) | Multi-model Domain-Specific Language (DSL) calculator. I built the Bison grammar, expression evaluation, and operator precedence and associativity, and resolved shift/reduce conflicts. | `C/C++` `Bison` |
-| **Badrakanda High School Website** | Official website for a government school, delivered by StratifyX Global. I worked as Assistant Developer on defect analysis and quality assurance. | `Web` `QA` |
 | **Library Management System** | Terminal-based library application built with core data structures. | `C/C++` `Data Structures` |
 
 ---
 
 ## Leadership & Achievements
 
-- 👑 **CEO, StratifyX Global**: represented the team in the **Promptcraft Challenge** at the *5th National Data Science Summit 2026*.
+- 👑 **CEO, [StratifyX Global](https://stratifyxglobal.com)**: represented the team in the **Promptcraft Challenge** at the *5th National Data Science Summit 2026*.
 - 🎤 **Presenter**: shared an idea at the *IEEE International Congress on AI & Digital Health Innovations (ICADHI 2026)* and presented Generative AI concepts in the Compiler Design course at DIU.
 - 🎗️ **Volunteer**: *ICPC Asia Dhaka Regional Contest 2024* and *Monon-Moncho: The Mindset Olympiad 2025*.
 
@@ -86,6 +95,6 @@ CSE undergraduate at Daffodil International University, building practical softw
 
 <div align="center">
 
-**Let's build something together.** Reach me on [LinkedIn](https://www.linkedin.com/in/md-ashraful-islam25/) or at [ashrafulislam.personal.info@gmail.com](mailto:ashrafulislam.personal.info@gmail.com).
+**Let's build something together.** Visit [stratifyxglobal.com](https://stratifyxglobal.com), connect on [LinkedIn](https://www.linkedin.com/in/md-ashraful-islam25/), or email [ashrafulislam.personal.info@gmail.com](mailto:ashrafulislam.personal.info@gmail.com).
 
 </div>
